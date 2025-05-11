@@ -8,7 +8,7 @@
 - 👯 I’m looking to discuss **Data-Centric AI research**
 - 📫 How to reach me: Please mail me at themaoqiu@gmail.com
 - 😄 Still on the way
-- Homepage: [Themaoqiu's Homepage](https://themaoqiu.github.io/)
+- 🏠 Homepage: [Themaoqiu's Homepage](https://themaoqiu.github.io/)
 
 ![](https://raw.githubusercontent.com/shijian2001/shijian2001/output/github-contribution-grid-snake.svg)
 
