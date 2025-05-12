@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </div>
 
-<h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Xingjian Wang</h2>
+<h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Xingjian</h2>
 
 - 🔭 I’m currently a sophomore undergraduate student focusing on **Data-Centric AI, Large Multimodal Models**
 - 👯 I’m looking to discuss **Data-Centric AI research**
